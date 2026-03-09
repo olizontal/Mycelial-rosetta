@@ -20,4 +20,4 @@ Before contributing, ask yourself:
 "Have I ever changed my experimental approach because of what 
 the organism seemed to want rather than what my protocol specified?"
 
-If yes — welcome. You're already thinking in the right 
+If yes — welcome. You're already thinking in the right way.
