@@ -28,5 +28,4 @@ Two or more of the following over 3+ consecutive runs:
 We hold our interpretations loosely. Language is a hypothesis, 
 not a conclusion. When evidence contradicts a cherished idea, 
 the evidence wins.
-Scroll down, hit Commit changes twice.
-Shout when done — we're nearly there! 🌿
+
